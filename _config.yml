@@ -53,7 +53,7 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Data Carpentry (Ecology with Python) workshop for Centers for Disease Control"
+title: "Data Carpentry (Data Management and Visualization) workshop for Centers for Disease Control"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
